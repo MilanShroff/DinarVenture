@@ -9,9 +9,9 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 def connect_to_mysql():
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="Milan@76",
+        host="",
+        user="",
+        password="",
         database="sneakers_db"
     )
 
