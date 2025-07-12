@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
 
 
-df = pd.read_csv(r'C:\Users\milan\OneDrive\Desktop\PS_20174392719_1491204439457_log.csv')
+df = pd.read_csv()
 
 
 print("DV06AI00020\n")
